@@ -1,5 +1,6 @@
 - [<span class="iconfont icon-book3"></span> 首页](https://blog.littlebean.top/)
 - [<span class="iconfont icon-icon_fabu"></span> 导航](README.md)
+  - [一人企业](README?id=一人企业)
   - [Java](README?id=Java)
   - [Python](README?id=Python)
   - [AI](README?id=AI)

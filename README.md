@@ -2,6 +2,10 @@
 
 - [内网穿透工具推荐](Tool4Vpn/vpn-tool-recommand.md)
 
+## 一人企业
+
+- [超低成本创建网站](OnePersonEnterprise/create-web-by-github-pages.md)
+
 ## Java
 
 - [MyBatis-Plus中如何使用ResultMap](Java/resultmap-in-mybatis-plus.md)
