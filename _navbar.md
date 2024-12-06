@@ -1,7 +1,6 @@
 - [<span class="iconfont icon-book3"></span> 首页](https://blog.littlebean.top/)
 - [<span class="iconfont icon-icon_fabu"></span> 导航](README.md)
   - [Java](README?id=Java)
-  - [大数据](README?id=大数据)
   - [Python](README?id=Python)
   - [AI](README?id=AI)
   - [MySQL](README?id=MySQL)
@@ -20,7 +19,7 @@
   - [俄罗斯方块](https://binaryify.github.io/vue-tetris/?lan=zh)
   - [JSON在线解析](https://bytesfly.github.io/json/)
   - [烟花](pages/fireworks.html ':ignore')
-- [⛷ 侠客岛](https://bytesfly.github.io/island/)
+
 - [<span class="iconfont icon-github1"></span> GitHub](https://github.com/Neil-Huang/blog-docsify/)
 
 

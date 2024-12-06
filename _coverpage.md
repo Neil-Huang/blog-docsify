@@ -6,7 +6,7 @@
 
 
 [GitHub](https://github.com/Neil-Huang/blog-docsify)
-[开始阅读](README.md)
+[开始阅读2](README.md)
 
 
 
