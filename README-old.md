@@ -1,5 +1,3 @@
-## 内网穿透
-- [内网穿透工具推荐](Tool4Vpn/vpn-tool-recommand.md)
 
 ## Java
 
@@ -130,3 +128,28 @@
 - [爬楼梯](LeetCode/0070-climbing-stairs.md)
 - [使用最小花费爬楼梯](LeetCode/0746-min-cost-climbing-stairs.md)
 - [买卖股票的最佳时机](LeetCode/0121-best-time-to-buy-and-sell-stock.md)
+
+**贪心算法:**
+- [跳跃游戏](LeetCode/0055-jump-game.md)
+- [跳跃游戏 II](LeetCode/0045-jump-game-ii.md)
+- [买卖股票的最佳时机 II](LeetCode/0122-best-time-to-buy-and-sell-stock-ii.md)
+
+**链表:**
+- [反转链表](LeetCode/0206-reverse-linked-list.md)
+
+**二叉树**
+- [二叉树的层序遍历](LeetCode/0102-binary-tree-level-order-traversal.md)
+- [对称二叉树](LeetCode/0101-symmetric-tree.md)
+- [二叉树的前序遍历](LeetCode/0144-binary-tree-preorder-traversal.md)
+- [二叉树的中序遍历](LeetCode/0094-binary-tree-inorder-traversal.md)
+- [二叉树的后序遍历](LeetCode/0145-binary-tree-postorder-traversal.md)
+
+**栈和队列**
+- [有效的括号](LeetCode/0020-valid-parentheses.md)
+
+**数组**
+- [移除元素](LeetCode/0027-remove-element.md)
+
+**数学**
+- [只出现一次的数字](LeetCode/0136-single-number.md)
+
